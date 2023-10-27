@@ -1,0 +1,1 @@
+module.exports = "https://glorious-plum-caridea.cyclic.app";
